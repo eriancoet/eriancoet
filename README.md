@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eriancoet
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Javascript, Node, React, Html, Css, Next and MongoDB
+- 🌱 I’m experienced in Javascript, Typescript, PHP, Node, React, Html, Css, Next, MySQL and MongoDB
 - 💞️ I’m looking to collaborate on Web Developement
 - 📫 How to reach me? Send me a message thru github.
 
